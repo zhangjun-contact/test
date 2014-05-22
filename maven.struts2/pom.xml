@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>autonavi.project2</groupId>
-  <artifactId>buaa.campus.resources</artifactId>
+  <groupId>com.brian</groupId>
+  <artifactId>test.struts2</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>duaa.campus.resources Maven Webapp</name>
+  <name>struts2.test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -26,6 +26,6 @@
 	</dependency>
   </dependencies>
   <build>
-    <finalName>duaa.campus.resources</finalName>
+    <finalName>test.struts2</finalName>
   </build>
 </project>
